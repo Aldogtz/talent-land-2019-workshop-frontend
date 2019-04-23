@@ -7,5 +7,5 @@ before_script
 
 
 script:
-- echo "Antes de la coinstruccion"
--npm build
+  - echo "Antes de la coinstruccion"
+  - npm build
